@@ -9,6 +9,6 @@ the study code of deep learning
 ### linear_classify
 两层全连接神经网络、svm loss、softmax loss的学习代码
 ### knn
-关于knn的学习diamante
+关于knn的学习代码
 ### data_batches_py
 数据集
